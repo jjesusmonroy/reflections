@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	R.- It creates data to save our info need it to use git in our folder, this data is hidden, in order to be able to see it you'll need to check out with ls -a command, and it will you all the information that is in your folder. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	R.- I think staging area is between them in order to add information about your project that are related in function you can always save them in one commit and adding a description that applies for both files, this is kinda awesome because it gives you more power to manipulate your files :)
+
+	

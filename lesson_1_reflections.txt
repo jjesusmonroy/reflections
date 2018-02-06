@@ -1,0 +1,19 @@
+Well, when I saw what diff gives you while checking your 2 version files helps you a lot with the minus and plus, in that way you are able to check what's new on the file and what's older and it does not desiorented you while checking theses changes.
+
+About the second question, I think is important to maintain the historial of your code because you can see if you have improved in your code towards the goal you wanted to get at the beginning and if you forget what some lines do, maybe you get the answer checking out the olders versions of your file.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	R.- When saving like Git does you know whats the value of your code and what it does the momment you save your progress in that way you can always choose or sometimes get your old code to fix some typo in your recent code.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	R.- Its more effective I think, because sometimes your functions to work need more than 1 file to do it, so if I want to add a new page to my project I will need maybe commit two or more files and I will only add 1 description about the page.
+
+How can you use the commands git log and git diff to view the history of files?
+	R.- Maybe when I messed it up and a function that was working fine before I commit, I will be able to see what did I change in order to go back when it was working.
+
+How might using version control make you more confident to make changes that could break something?
+	R.- Because my work can be save when I make something functional to that moment and when adding new code is more safe now because you can always go back and fix it, and you don't need to like save your file with other name like the old days, when sometimes you forget to save it and you lose your time invested.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	R.- For everthing I'll do on the school.
+

@@ -16,4 +16,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	R.- Addindg some features that you worked on besides our master project and we can add them in order to have the 2 version of the code, and It's heplful to make a diagram like that so you don't get lose with so many commits.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	R.- Some advantages that this represent are that if the code keep working with the auto fill there you shouldnot be a problem to do it automatic, but you I'll prefer doing it manually because you can understand the changes and what if they are really need it or not.
+
+
 	

@@ -1,1 +1,4 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+  R.- When I want other people to rate my code and if is optimal to do it in that way, because sometimes I do a lot of cycles that messed up our memory.
+  
+  

@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	R.- Instead of cloning and then pushing to another repository, fork does that, so instead of cloning like that, fork gets your work easier and in other hand branch are labels like you said, and they help you to organize your versions of your project. Forking maybe when you want to credit the guy who gives you the idea of the project and clone when you want to work out that out and make your version of it, and branch when you want to create different concepts in your project at the same time.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	R.- I dont understand this question because is hard to focus when ppl are talking by your side in yoru home ._.

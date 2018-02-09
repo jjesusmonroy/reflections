@@ -12,3 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	R.- Like according personally with your people, and passing your changes and it would be harder to mix them in only one but doesnt require to inflict in some classes so you established that you are going to do one thing and others won't touch that.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	R.- When i dont want to affect our local project and make some changes and if they do well at the end maybe mix it with master and will be added all the complete working job.
